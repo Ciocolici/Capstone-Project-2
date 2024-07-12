@@ -1,0 +1,12 @@
+body {
+    font-family: "Noto Serif", serif;
+    background-image: url('./assets/images/background2.jpg');
+}
+
+.text-shadow {
+  text-shadow: 2px 2px 4px white;
+}
+
+.text-shadowblack {
+    text-shadow: 2px 2px 4px black;
+  }
